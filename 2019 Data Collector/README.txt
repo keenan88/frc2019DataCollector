@@ -24,5 +24,7 @@ NOTE: Server and client must be on the same network to communicate.
 
 ------------------------------------------------------------------------------
 
+Please note this project is a work in progress. This version is functional, but more tweaking and improvements are yet to come.
+
 Any questions can be directed to the developer, keenanburke@outlook.com.
 
