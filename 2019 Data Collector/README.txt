@@ -4,6 +4,8 @@ Python must be installed.
 
 dataCollectorClient.py requires the pillow module, which does not come with default python. run "pip install pillow" in the command prompt to install pillow.
 
+Delete deleteMe.csv from localCSVData and serverCSVData folders.
+
 ------------------------------------------------------------------------------
 
 User Manual:
